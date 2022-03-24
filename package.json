@@ -1,0 +1,12 @@
+{
+  "name": "dynamic-script-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx browser-sync start --server -f -w"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.9"
+  }
+}
